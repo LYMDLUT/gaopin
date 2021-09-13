@@ -1,0 +1,8 @@
+D:\Workspace\C#\RigolTest\RigolTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Workspace\C#\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+D:\Workspace\C#\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb

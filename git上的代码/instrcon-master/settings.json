@@ -1,0 +1,8 @@
+{
+    "verbose": 2,
+    "logging": true,
+    "data_path": "C:/matlab_prgs/daniel/test",
+    "log_path": "C:/matlab_prgs/daniel/test/log",
+    "dynamic_log_path": false,
+    "combined_logs": true
+}

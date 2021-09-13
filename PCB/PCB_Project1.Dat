@@ -1,0 +1,18 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~C:\Users\13041\Desktop\PCB\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project1.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~86|ReportField=ReportTime~22:57:14|ReportField=ReportDate~2019/12/27|ReportField=ReportDateTime~2019/12/27 22:57:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/12/27|ReportField=CurrentTime~22:57:09|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\13041\Desktop\PCB\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/12/27|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project1.PrjPCB|ReportField=DataSourceFullPath~C:\Users\13041\Desktop\PCB\PCB_Project1.PrjPCB
+Cap|Capacitor|C1, C2, C4, C5, C6, C7, C8, C9, C10, C11, C14, C15, C16, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32|2012[0805]|Cap|28
+Cap Pol1|Polarized Capacitor (Radial)|C3, C12, C13, C17|C1206|Cap Pol1|4
+Inductor|Inductor|L1|2012[0805]|Inductor|1
+Header 2|Header, 2-Pin|P1, P2, P3|HDR1X2|Header 2|3
+Header 3|Header, 3-Pin|P4|shuru|Header 3|1
+NPN|NPN Bipolar Transistor|Q1, Q2, Q3, Q4|TO-226|NPN|4
+Res1|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R22, R23, R25, R26, R27, R28, R29, R31, R32, R33, R35|2012[0805]|Res1|31
+Res Adj1|Variable Resistor|R21, R24, R30, R34|2012[0805]|Res Adj1|4
+RPot|Potentiometer|Rw1, Rw2|VR5|RPot|2
+zhongzhou||T1|zhongzhou|zhongzhou|1
+MC1496||U1|MC1496|MC1496|1
+LM7808||U2|LM7808|LM7808|1
+LM741||U3|LM741|LM741|1
+zhongzhou1||Z1|zhongzhou|zhongzhou1|1
+zhongzhou2||Z2|zhongzhou|zhongzhou2|1
+zhongzhou3||Z3|zhongzhou|zhongzhou3|1
+zhongzhou4||Z4|zhongzhou|zhongzhou4|1

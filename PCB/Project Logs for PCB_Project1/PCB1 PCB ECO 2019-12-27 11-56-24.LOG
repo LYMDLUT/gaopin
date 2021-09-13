@@ -1,0 +1,45 @@
+Added Component: Designator=T1(zhongzhou)
+Added Component: Designator=Z1(zhongzhou)
+Added Component: Designator=Z2(zhongzhou)
+Added Component: Designator=Z3(zhongzhou)
+Added Component: Designator=Z4(zhongzhou)
+Added Pin To Net: NetName=NetC1_2 Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-3
+Added Pin To Net: NetName=GND Pin=T1-4
+Added Pin To Net: NetName=NetR3_2 Pin=T1-5
+Added Pin To Net: NetName=GND Pin=T1-6
+Added Pin To Net: NetName=GND Pin=T1-7
+Added Pin To Net: NetName=+12V Pin=Z1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Z1-2
+Added Pin To Net: NetName=NetC21_1 Pin=Z1-3
+Added Pin To Net: NetName=GND Pin=Z1-4
+Added Pin To Net: NetName=NetC27_1 Pin=Z1-5
+Added Pin To Net: NetName=GND Pin=Z1-6
+Added Pin To Net: NetName=GND Pin=Z1-7
+Added Pin To Net: NetName=NetC26_1 Pin=Z2-1
+Added Pin To Net: NetName=GND Pin=Z2-3
+Added Pin To Net: NetName=GND Pin=Z2-4
+Added Pin To Net: NetName=NetC28_2 Pin=Z2-5
+Added Pin To Net: NetName=GND Pin=Z2-6
+Added Pin To Net: NetName=GND Pin=Z2-7
+Added Pin To Net: NetName=+12V Pin=Z3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=Z3-2
+Added Pin To Net: NetName=NetC29_1 Pin=Z3-3
+Added Pin To Net: NetName=GND Pin=Z3-4
+Added Pin To Net: NetName=NetC30_1 Pin=Z3-5
+Added Pin To Net: NetName=GND Pin=Z3-6
+Added Pin To Net: NetName=GND Pin=Z3-7
+Added Pin To Net: NetName=+12V Pin=Z4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=Z4-2
+Added Pin To Net: NetName=NetC31_1 Pin=Z4-3
+Added Pin To Net: NetName=GND Pin=Z4-4
+Added Pin To Net: NetName=MID Pin=Z4-5
+Added Pin To Net: NetName=GND Pin=Z4-6
+Added Pin To Net: NetName=GND Pin=Z4-7
+Added Member To Class: ClassName=Sheet1 Member=Component T1 zhongzhou
+Added Member To Class: ClassName=Sheet2 Member=Component Z1 zhongzhou1
+Added Member To Class: ClassName=Sheet2 Member=Component Z2 zhongzhou2
+Added Member To Class: ClassName=Sheet2 Member=Component Z3 zhongzhou3
+Added Member To Class: ClassName=Sheet2 Member=Component Z4 zhongzhou4
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

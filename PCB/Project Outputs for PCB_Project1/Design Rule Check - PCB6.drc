@@ -1,0 +1,84 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\13041\Desktop\PCB\PCB6.PcbDoc
+Date     : 2019/12/27
+Time     : 18:10:01
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=1mil) (All),(All)
+   Violation between Pad T1-7(6270mil,3801.85mil)  Multi-Layer and 
+                     Track (6315mil,3810mil)(6460mil,3810mil)  Top Overlay
+   Violation between Pad T1-7(6270mil,3801.85mil)  Multi-Layer and 
+                     Track (6080mil,3810mil)(6315mil,3810mil)  Top Overlay
+   Violation between Pad T1-6(6270mil,3408.15mil)  Multi-Layer and 
+                     Track (6080mil,3400mil)(6225mil,3400mil)  Top Overlay
+   Violation between Pad T1-6(6270mil,3408.15mil)  Multi-Layer and 
+                     Track (6225mil,3400mil)(6460mil,3400mil)  Top Overlay
+   Violation between Pad Z2-7(3700mil,3543.15mil)  Multi-Layer and 
+                     Track (3510mil,3535mil)(3655mil,3535mil)  Top Overlay
+   Violation between Pad Z2-7(3700mil,3543.15mil)  Multi-Layer and 
+                     Track (3655mil,3535mil)(3890mil,3535mil)  Top Overlay
+   Violation between Pad Z2-6(3700mil,3936.85mil)  Multi-Layer and 
+                     Track (3745mil,3945mil)(3890mil,3945mil)  Top Overlay
+   Violation between Pad Z2-6(3700mil,3936.85mil)  Multi-Layer and 
+                     Track (3510mil,3945mil)(3745mil,3945mil)  Top Overlay
+   Violation between Pad Z4-7(6090mil,4333.15mil)  Multi-Layer and 
+                     Track (5900mil,4325mil)(6045mil,4325mil)  Top Overlay
+   Violation between Pad Z4-7(6090mil,4333.15mil)  Multi-Layer and 
+                     Track (6045mil,4325mil)(6280mil,4325mil)  Top Overlay
+   Violation between Pad Z4-6(6090mil,4726.85mil)  Multi-Layer and 
+                     Track (6135mil,4735mil)(6280mil,4735mil)  Top Overlay
+   Violation between Pad Z4-6(6090mil,4726.85mil)  Multi-Layer and 
+                     Track (5900mil,4735mil)(6135mil,4735mil)  Top Overlay
+   Violation between Pad Z1-7(2710mil,4313.15mil)  Multi-Layer and 
+                     Track (2520mil,4305mil)(2665mil,4305mil)  Top Overlay
+   Violation between Pad Z1-7(2710mil,4313.15mil)  Multi-Layer and 
+                     Track (2665mil,4305mil)(2900mil,4305mil)  Top Overlay
+   Violation between Pad Z1-6(2710mil,4706.85mil)  Multi-Layer and 
+                     Track (2755mil,4715mil)(2900mil,4715mil)  Top Overlay
+   Violation between Pad Z1-6(2710mil,4706.85mil)  Multi-Layer and 
+                     Track (2520mil,4715mil)(2755mil,4715mil)  Top Overlay
+   Violation between Pad Z3-7(4430mil,4273.15mil)  Multi-Layer and 
+                     Track (4240mil,4265mil)(4385mil,4265mil)  Top Overlay
+   Violation between Pad Z3-7(4430mil,4273.15mil)  Multi-Layer and 
+                     Track (4385mil,4265mil)(4620mil,4265mil)  Top Overlay
+   Violation between Pad Z3-6(4430mil,4666.85mil)  Multi-Layer and 
+                     Track (4475mil,4675mil)(4620mil,4675mil)  Top Overlay
+   Violation between Pad Z3-6(4430mil,4666.85mil)  Multi-Layer and 
+                     Track (4240mil,4675mil)(4475mil,4675mil)  Top Overlay
+Rule Violations :20
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 20
+Time Elapsed        : 00:00:00

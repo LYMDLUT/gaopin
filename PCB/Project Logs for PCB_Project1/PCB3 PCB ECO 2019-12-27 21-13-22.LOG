@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X3 New Footprint=shuru
+Change Component Comment : Designator=Z3 Old Comment=zhongzhou2 New Comment=zhongzhou3
+Change Component Comment : Designator=Z4 Old Comment=zhongzhou3 New Comment=zhongzhou4
+Change Component Comment : Designator=Z2 Old Comment=zhongzhou4 New Comment=zhongzhou2
